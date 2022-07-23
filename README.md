@@ -1,4 +1,4 @@
-# Chrome-Extension 
+# Sneha-Jokes Chrome-Extension 
 ## Random Jokes Generator
 Provides random jokes with each click
 
